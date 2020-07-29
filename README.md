@@ -1,2 +1,2 @@
 # hello-world
-hello-world new repository
+hello-world new repository. Initial commit
